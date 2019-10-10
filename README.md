@@ -12,4 +12,4 @@ scalable driver, including:
 * Calling the appropriate Tasks API
 * Implementing a Task Loop Client Kit is a Java-based framework built 
 
-Refer to the [api-client-kit](https://github.com/kimonocloud/api-simple-driver) for details.
+Refer to the [api-client-kit](https://github.com/kimonocloud/api-client-kit) for details.
